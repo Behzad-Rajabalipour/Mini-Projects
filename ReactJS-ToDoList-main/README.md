@@ -16,6 +16,7 @@ The login authentication logic and the tasks database for each user are not impl
 
 [![Watch the demo video](path/to/demo.gif)](https://youtu.be/4hfhMRsUl_U)
 
+https://github.com/Behzad-Rajabalipour/Mini-Projects/issues/3#issue-2376055427
 
 
 ## Inspiration
