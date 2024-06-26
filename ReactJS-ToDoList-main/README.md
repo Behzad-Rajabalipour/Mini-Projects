@@ -5,7 +5,13 @@ It includes the login page and the general UI of the app. <br/>
 The login authentication logic and the tasks database for each user are not implemented, since this project aims to be a Front-End study only.
 
 ## Demonstration
-https://github.com/Behzad-Rajabalipour/Mini-Projects/issues/1#issue-2376009082
+
+### Demo Video
+
+<video width="600" controls>
+  <source src="https://github.com/Behzad-Rajabalipour/Mini-Projects/issues/1#issue-2376009082" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Inspiration
 The login page was inspired in [this design](https://dribbble.com/shots/17564792-Log-in-page-Untitled-UI/attachments/12710737?mode=media) by Jordan Hughes.
