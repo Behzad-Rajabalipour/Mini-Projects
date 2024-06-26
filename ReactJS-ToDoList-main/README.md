@@ -6,7 +6,7 @@ The login authentication logic and the tasks database for each user are not impl
 
 ## Demonstration
 
-![Demo Video](demo.mp4)
+![Demo Video](./demo.mp4)
 
 ## Inspiration
 The login page was inspired in [this design](https://dribbble.com/shots/17564792-Log-in-page-Untitled-UI/attachments/12710737?mode=media) by Jordan Hughes.
