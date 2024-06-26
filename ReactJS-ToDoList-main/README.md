@@ -12,6 +12,7 @@ The login authentication logic and the tasks database for each user are not impl
   <source src="https://github.com/Behzad-Rajabalipour/Mini-Projects/issues/1#issue-2376009082" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+[![Watch the demo video]](https://github.com/Behzad-Rajabalipour/Mini-Projects/issues/2#issue-2376030153)
 
 ## Inspiration
 The login page was inspired in [this design](https://dribbble.com/shots/17564792-Log-in-page-Untitled-UI/attachments/12710737?mode=media) by Jordan Hughes.
