@@ -23,6 +23,10 @@ https://github.com/Behzad-Rajabalipour/Mini-Projects/issues/3#issue-2376055427
 The login page was inspired in [this design](https://dribbble.com/shots/17564792-Log-in-page-Untitled-UI/attachments/12710737?mode=media) by Jordan Hughes.
 The home page was inspired in [this design](https://dribbble.com/shots/14440819-KosmoTime-Task-Manager/attachments/6121947?mode=media) by Mik Skuza.
 
+
+https://github.com/Behzad-Rajabalipour/Mini-Projects/assets/115672803/18bf3a46-0ec5-497f-88a6-f183e3546ee3
+
+
 https://github.com/Behzad-Rajabalipour/Mini-Projects/issues/2#issue-2376030153
 
 ## Functionalities
