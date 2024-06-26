@@ -7,9 +7,6 @@ The login authentication logic and the tasks database for each user are not impl
 ## Demonstration
 https://github.com/Behzad-Rajabalipour/Mini-Projects/issues/1#issue-2376009082
 
-https://user-images.githubusercontent.com/122649188/214991561-d29b14eb-560a-4ba4-aa12-0656278d3fc8.mp4
-
-
 ## Inspiration
 The login page was inspired in [this design](https://dribbble.com/shots/17564792-Log-in-page-Untitled-UI/attachments/12710737?mode=media) by Jordan Hughes.
 The home page was inspired in [this design](https://dribbble.com/shots/14440819-KosmoTime-Task-Manager/attachments/6121947?mode=media) by Mik Skuza.
