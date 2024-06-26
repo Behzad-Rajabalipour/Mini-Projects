@@ -7,7 +7,7 @@ The login authentication logic and the tasks database for each user are not impl
 ## Demonstration
 
 <video width="600" controls>
-  <source src="./demo.mp4" type="video/mp4">
+  <source src="demo.mp4" type="video/mp4">
   Your browser does not support the video tag. You can download the video from [this link](demo.mp4).
 </video>
 
