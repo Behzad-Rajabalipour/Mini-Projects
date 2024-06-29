@@ -4,6 +4,16 @@ This project implements the Front-End for a simple To-Do List web application, u
 It includes the login page and the general UI of the app. <br/>
 The login authentication logic and the tasks database for each user **are not implemented**, since this project aims to be a **Front-End study only**.
 
+## Technologies Used
+
+- React
+- TypeScript replacing CSS
+- JavaScript 
+- Ajax
+- SASS
+- Node.js
+- PostgreSQL
+
 ## Demonstration
 
 https://github.com/Behzad-Rajabalipour/Several-Small-Projects/assets/115672803/3a101c70-da74-4987-a9e1-b8636817217a
