@@ -6,8 +6,7 @@ The login authentication logic and the tasks database for each user **are not im
 
 ## Demonstration
 
-https://github.com/Behzad-Rajabalipour/Mini-Projects/issues/1#issue-2376009082
-
+https://github.com/Behzad-Rajabalipour/Several-Small-Projects/assets/115672803/3a101c70-da74-4987-a9e1-b8636817217a
 
 ## Features
 • Login page, including Sign In button, which redirects to the main application; <br/>
