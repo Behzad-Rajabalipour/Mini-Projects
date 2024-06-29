@@ -12,7 +12,6 @@ The login authentication logic and the tasks database for each user **are not im
 - Ajax
 - SASS
 - Node.js
-- PostgreSQL
 
 ## Demonstration
 
